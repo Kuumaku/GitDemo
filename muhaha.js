@@ -1,1 +1,1 @@
-console.log("Fuck")
+console.log("Fuck")``
